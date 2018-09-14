@@ -150,7 +150,7 @@ public class Facebook {
         // TODO code application logic here
         //System.out.println("connecting fb...");
         Facebook tmp=new Facebook();
-        tmp.getFriends("EAAEfZCprGTVQBAP2ZCxZCGEi6ZABhNzlQzvrl29FrORIgAPST2GzDiQTKqqKNsWgYj593rzIpQpPF4XIfvHIc81i6DuT91RjiZC67IZCv5Fe9jxxSh8wxJaiZAh6cpZCDL6v9WAoYHzkhIuqmIggCR2TPADxkXzNz3U1vFO8YL79LAyFMKsoHsTDOY2mKjwzFboZD");
+        tmp.getFeeds("EAAEfZCprGTVQBAP2ZCxZCGEi6ZABhNzlQzvrl29FrORIgAPST2GzDiQTKqqKNsWgYj593rzIpQpPF4XIfvHIc81i6DuT91RjiZC67IZCv5Fe9jxxSh8wxJaiZAh6cpZCDL6v9WAoYHzkhIuqmIggCR2TPADxkXzNz3U1vFO8YL79LAyFMKsoHsTDOY2mKjwzFboZD");
         
         //tmp.loadInformation("Friendship_small.net");
         
